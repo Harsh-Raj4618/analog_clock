@@ -29,7 +29,14 @@ A responsive, visually appealing **Analog and Digital Clock** built using **HTML
 ---
 
 ## 🗂 Project Structure
-
+- main
+  - html file
+    - index.html
+  - css file
+    - style.css
+  - js file
+    - script.js
+  - readme.md
 
 
 ---
