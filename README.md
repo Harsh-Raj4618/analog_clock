@@ -1,4 +1,4 @@
-# 🕒 Analog + Digital Clock with Theme Switch
+# 🕒 Digital + Analog Clock with Theme Switch
 
 A responsive, visually appealing **Analog and Digital Clock** built using **HTML**, **CSS**, and **JavaScript**, featuring:
 
