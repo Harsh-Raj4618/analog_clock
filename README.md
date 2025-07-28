@@ -54,6 +54,6 @@ A responsive, visually appealing **Analog and Digital Clock** built using **HTML
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Harsh-Raj4618/clock-app.git
+   git clone https://github.com/Harsh-Raj4618/digital-analog-clock-app.git
    cd clock-app
 
