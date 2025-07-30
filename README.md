@@ -30,11 +30,11 @@ A responsive, visually appealing **Analog and Digital Clock** built using **HTML
 
 ## 🗂 Project Structure
 - main
-  - html file
+  - HTML file
     - index.html
-  - css file
+  - CSS file
     - style.css
-  - js file
+  - JS file
     - script.js
   - readme.md
 
